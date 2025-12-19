@@ -1,5 +1,5 @@
-Demo code show how to control a hardware by iPhone with bluetooth4.0
-封装了Corebluetooth.framework的一些基础方法，提供以下核心功能接口，
+Core code show how to control a hardware by iPhone with bluetooth4.0
+提供以下核心功能接口, 封装了Corebluetooth.framework的相关方法
 
 /**
  *  开始扫描
